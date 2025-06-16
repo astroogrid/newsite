@@ -6,7 +6,7 @@ const PageFooter: React.FC = () => {
     <footer className="bg-shop-bg-gray py-10 mt-20">
       <div className="container grid grid-cols-1 md:grid-cols-4 gap-8">
         <div>
-          <h4 className="font-bold text-lg mb-4">MOMENT</h4>
+          <h4 className="font-bold text-lg mb-4">AstrooGrid</h4>
           <p className="text-shop-dark-gray">
             Creating premium products for photographers and filmmakers.
           </p>

@@ -19,7 +19,7 @@ const SEO: React.FC<SEOProps> = ({
   url = window.location.href,
   type = 'website'
 }) => {
-  const siteName = 'MOMENT';
+  const siteName = 'AstrooGrid';
   
   return (
     <Helmet>

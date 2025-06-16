@@ -14,21 +14,21 @@ const CategoryPage = () => {
   return (
     <div className="min-h-screen flex flex-col">
       <Helmet>
-        <title>Category | MOMENT Photography Equipment Store</title>
+        <title>Category | AstrooGrid Photography Equipment Store</title>
         <meta
           name="description"
           content="Browse our categories of spiritual and wellness products including horoscope, gemstones, rudraksha, and more."
         />
         <meta
           property="og:title"
-          content="Category | MOMENT Photography Equipment Store"
+          content="Category | AstrooGrid Photography Equipment Store"
         />
         <meta
           property="og:description"
           content="Browse our categories of spiritual and wellness products including horoscope, gemstones, rudraksha, and more."
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://moment-store.com/category" />
+        <link rel="canonical" href="https://AstrooGrid-store.com/category" />
       </Helmet>
 
       <Header />

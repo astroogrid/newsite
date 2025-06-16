@@ -17,14 +17,14 @@ const Index = () => {
   return (
     <div className="min-h-screen flex flex-col">
       <Helmet>
-        <title>MOMENT | Photography Equipment Store</title>
+        <title>AstrooGrid | Photography Equipment Store</title>
         <meta
           name="description"
           content="Professional grade equipment for photographers at every level. Shop cameras, lenses, and accessories."
         />
         <meta
           property="og:title"
-          content="MOMENT | Photography Equipment Store"
+          content="AstrooGrid | Photography Equipment Store"
         />
         <meta
           property="og:description"
@@ -35,7 +35,7 @@ const Index = () => {
           content="https://images.unsplash.com/photo-1542038784456-1ea8e935640e"
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://moment-store.com/" />
+        <link rel="canonical" href="https://AstrooGrid-store.com/" />
       </Helmet>
 
       <Header />
