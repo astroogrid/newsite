@@ -1,0 +1,258 @@
+
+[
+  {
+    "id": 1,
+    "name": "Golden Pyrite Certified Healing Crystal Bracelet",
+    "price": 1299.99,
+    "originalPrice": 1599.99,
+    "discountPercentage": 19,
+    "category": "Bracelets",
+    "brand": "AstrooGrid",
+    "rating": 4.9,
+    "image": "https://gemglow.in/cdn/shop/files/P1461414.jpg?v=1711795785&width=1100",
+    "description": "Empowered by Pyrite's Prosperity: Infused with the vibrant and prosperous energy of Golden Pyrite, this bracelet attracts abundance and wealth, making it an ideal accessory for those looking to enhance their financial and professional success.",
+    "slug": "Golden-Pyrite-Certified-Healing-Crystal-Bracelet",
+    "specs": [
+      "45MP Full-Frame Sensor",
+      "8K Video Recording",
+      "5-Axis Image Stabilization",
+      "ISO Range: 100-51200",
+      "Weather-Sealed Body"
+    ],
+    "images": [
+      {
+        "id": 1,
+        "url": "https://gemglow.in/cdn/shop/files/P1461414.jpg?v=1711795785&width=1100",
+        "alt": "Golden Pyrite Certified Healing Crystal Bracelet front view"
+      },
+      {
+        "id": 2,
+        "url": "https://gemglow.in/cdn/shop/files/P1461318.jpg?v=1711795785&width=823",
+        "alt": "Golden Pyrite Certified Healing Crystal Bracelet side view"
+      },
+      {
+        "id": 3,
+        "url": "https://gemglow.in/cdn/shop/files/P1461490.jpg?v=1711795782&width=823",
+        "alt": "Golden Pyrite Certified Healing Crystal Bracelet on display"
+      },
+      {
+        "id": 4,
+        "url": "https://gemglow.in/cdn/shop/files/P1461414.jpg?v=1711795785",
+        "alt": "Golden Pyrite Bracelet another angle"
+      },
+      {
+        "id": 5,
+        "url": "https://gemglow.in/cdn/shop/files/P1461318.jpg?v=1711795785",
+        "alt": "Golden Pyrite Bracelet in use"
+      },
+      {
+        "id": 6,
+        "url": "https://gemglow.in/cdn/shop/files/P1461490.jpg?v=1711795782",
+        "alt": "Golden Pyrite Bracelet detail"
+      }
+    ],
+    "reviews": [],
+    "sizes": [],
+    "colors": [],
+    "tags": [
+      "wealth",
+      "prosperity",
+      "bracelet",
+      "pyrite",
+      "healing",
+      "crystal"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Natural Rose Quartz Crystal Love Stone Bracelet",
+    "price": 499.99,
+    "category": "Bracelets",
+    "brand": "AstrooGrid",
+    "rating": 4.8,
+    "image": "https://gemglow.in/cdn/shop/files/SB003_4.jpg?v=1707476389&width=890",
+    "description": "Natural Rose Quartz Crystal Love Stone Bracelet - Known as the Stone of Love, this bracelet enhances all forms of love, from self-love to romantic relationships.",
+    "slug": "natural-rose-quartz-crystal-love-stone-bracelet",
+    "specs": [
+      "7mm Crystal Beads",
+      "Elastic String",
+      "Genuine Rose Quartz",
+      "Universal Size",
+      "Love Stone Properties"
+    ],
+    "images": [
+      {
+        "id": 1,
+        "url": "https://gemglow.in/cdn/shop/files/SB003_4.jpg?v=1707476389",
+        "alt": "Rose Quartz Bracelet main view"
+      },
+      {
+        "id": 2,
+        "url": "https://gemglow.in/cdn/shop/files/SB003_1.jpg?v=1707476389",
+        "alt": "Rose Quartz Bracelet close up"
+      },
+      {
+        "id": 3,
+        "url": "https://gemglow.in/cdn/shop/files/SB003_2.jpg?v=1707476389",
+        "alt": "Rose Quartz Bracelet on wrist"
+      },
+      {
+        "id": 4,
+        "url": "https://gemglow.in/cdn/shop/files/SB003_3.jpg?v=1707476389",
+        "alt": "Rose Quartz Bracelet packaging"
+      },
+      {
+        "id": 5,
+        "url": "https://gemglow.in/cdn/shop/files/SB003_5.jpg?v=1707476389",
+        "alt": "Rose Quartz Bracelet detail"
+      }
+    ],
+    "reviews": [],
+    "sizes": [],
+    "colors": [],
+    "tags": [
+      "rose quartz",
+      "love",
+      "healing",
+      "bracelet",
+      "pink"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Aquamarine Certified Healing Crystal Bracelet",
+    "price": 599.99,
+    "category": "Bracelets",
+    "brand": "GemGlow",
+    "rating": 4.7,
+    "image": "https://gemglow.in/cdn/shop/files/04_6a16cf0a-60a0-4e92-80be-63b68a847960.jpg?v=1710570796",
+    "description": "Black Obsidian Protection Bracelet - A powerful protective stone that shields against negativity and promotes strength and clarity.",
+    "slug": "black-obsidian-protection-bracelet",
+    "specs": [
+      "8mm Obsidian Beads",
+      "Durable Elastic Cord",
+      "Protective Properties",
+      "Adjustable Fit",
+      "Grounding Energy"
+    ],
+    "images": [
+      {
+        "id": 1,
+        "url": "https://gemglow.in/cdn/shop/files/04_6a16cf0a-60a0-4e92-80be-63b68a847960.jpg?v=1710570796",
+        "alt": "Black Obsidian Bracelet main view"
+      },
+      {
+        "id": 2,
+        "url": "https://gemglow.in/cdn/shop/files/01_4fb98c64-1bac-42cf-93ba-85dc7bc93097.jpg?v=1709104365&width=1100",
+        "alt": "Black Obsidian Bracelet on wrist"
+      }
+    ],
+    "reviews": [],
+    "sizes": [],
+    "colors": [],
+    "tags": [
+      "obsidian",
+      "protection",
+      "bracelet",
+      "black",
+      "healing"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Amethyst Crystal Healing",
+    "price": 899.99,
+    "category": "Bracelets",
+    "brand": "AstrooGrid",
+    "rating": 4.9,
+    "image": "https://gemglow.in/cdn/shop/files/04_d83b80c6-2dd0-4d90-9352-041ec7a5f569.jpg?v=1709104448&width=1100",
+    "description": "Amethyst Crystal Healing Necklace - A spiritual stone that promotes calmness, peace, and enhances meditation practices.",
+    "slug": "amethyst-crystal-healing-necklace",
+    "specs": [
+      "Natural Amethyst Crystal",
+      "925 Sterling Silver Chain",
+      "18-inch Length",
+      "Lobster Clasp",
+      "Meditation Enhancement"
+    ],
+    "images": [
+      {
+        "id": 1,
+        "url": "https://gemglow.in/cdn/shop/files/04_d83b80c6-2dd0-4d90-9352-041ec7a5f569.jpg?v=1709104448&width=1100",
+        "alt": "Amethyst Necklace main view"
+      },
+      {
+        "id": 2,
+        "url": "https://gemglow.in/cdn/shop/files/04_d83b80c6-2dd0-4d90-9352-041ec7a5f569.jpg?v=1709104448&width=1100",
+        "alt": "Amethyst Necklace detail"
+      },
+      {
+        "id": 3,
+        "url": "https://gemglow.in/cdn/shop/files/04_d83b80c6-2dd0-4d90-9352-041ec7a5f569.jpg?v=1709104448&width=1100",
+        "alt": "Amethyst Necklace detail"
+      },
+      {
+        "id": 4,
+        "url": "https://gemglow.in/cdn/shop/files/04_d83b80c6-2dd0-4d90-9352-041ec7a5f569.jpg?v=1709104448&width=1100",
+        "alt": "Amethyst Necklace detail"
+      },
+      {
+        "id": 5,
+        "url": "https://gemglow.in/cdn/shop/files/04_d83b80c6-2dd0-4d90-9352-041ec7a5f569.jpg?v=1709104448&width=1100",
+        "alt": "Amethyst Necklace detail"
+      },
+      {
+        "id": 6,
+        "url": "https://gemglow.in/cdn/shop/files/04_d83b80c6-2dd0-4d90-9352-041ec7a5f569.jpg?v=1709104448&width=1100",
+        "alt": "Amethyst Necklace detail"
+      }
+    ],
+    "reviews": [],
+    "sizes": [],
+    "colors": [],
+    "tags": [
+      "necklace"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Green Aventurine Prosperity Bracelet",
+    "price": 399.99,
+    "category": "Bracelets",
+    "brand": "AstrooGrid",
+    "rating": 4.6,
+    "image": "https://gemglow.in/cdn/shop/files/P1461444.jpg?v=1721497062",
+    "description": "Green Aventurine Prosperity Bracelet - Known as the Stone of Opportunity, enhances luck and attracts prosperity and wealth.",
+    "slug": "green-aventurine-prosperity-bracelet",
+    "specs": [
+      "8mm Aventurine Beads",
+      "Elastic Cord",
+      "Prosperity Stone",
+      "Universal Fit",
+      "Lucky Charm Properties"
+    ],
+    "images": [
+      {
+        "id": 1,
+        "url": "https://gemglow.in/cdn/shop/files/P1461444.jpg?v=1721497062",
+        "alt": "Green Aventurine Bracelet main view"
+      },
+      {
+        "id": 2,
+        "url": "https://gemglow.in/cdn/shop/files/P1461444.jpg?v=1721497062",
+        "alt": "Green Aventurine Bracelet worn"
+      }
+    ],
+    "reviews": [],
+    "sizes": [],
+    "colors": [],
+    "tags": [
+      "aventurine",
+      "prosperity",
+      "luck",
+      "bracelet",
+      "green",
+      "healing"
+    ]
+  }
+]

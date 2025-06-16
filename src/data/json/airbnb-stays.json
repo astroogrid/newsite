@@ -1,0 +1,249 @@
+[
+  {
+    "id": "1",
+    "title": "cryctal",
+    "type": "Entire villa",
+    "location": "Tamil Nadu, India",
+    "price": 8500,
+    "rating": 4.9,
+    "reviewCount": 127,
+    "categories": ["rudraksha", "puja"],
+    "images": [
+      "https://images.unsplash.com/photo-1553775116-4cb1f4f57ed7?q=80&w=350",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800"
+    ],
+    "host": {
+      "name": "Rajesh Kumar",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150",
+      "isSuperhost": true,
+      "joinedYear": 2018
+    },
+    "amenities": [
+      "WiFi",
+      "Kitchen",
+      "Free parking",
+      "Hot tub",
+      "Pool",
+      "Fireplace",
+      "Mountain view",
+      "Garden",
+      "Balcony",
+      "Coffee maker"
+    ],
+    "description": "Escape to this stunning villa nestled in the heart of Ooty's tea gardens. Wake up to breathtaking mountain views and enjoy the tranquil atmosphere of the Nilgiri Hills. Perfect for families or groups looking for a luxurious getaway.",
+    "maxGuests": 8,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "beds": 6,
+    "checkIn": "3:00 PM",
+    "checkOut": "11:00 AM",
+    "cancellation": "Free cancellation for 48 hours",
+    "coordinates": {
+      "lat": 11.4064,
+      "lng": 76.6932
+    }
+  },
+  {
+    "id": "2",
+    "title": "Sacred Beads & Bracelets Cottage",
+    "type": "Entire cottage",
+    "location": "Ooty, Tamil Nadu, India",
+    "price": 4200,
+    "rating": 4.7,
+    "reviewCount": 89,
+    "categories": ["beads", "gemstones"],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1674675647971-f193deb4bad9?q=80&w=350",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800"
+    ],
+    "host": {
+      "name": "Priya Sharma",
+      "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b47c?w=150",
+      "isSuperhost": false,
+      "joinedYear": 2020
+    },
+    "amenities": [
+      "WiFi",
+      "Kitchen",
+      "Garden view",
+      "Fireplace",
+      "Coffee maker"
+    ],
+    "description": "A charming cottage surrounded by lush tea plantations.",
+    "maxGuests": 4,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "beds": 3,
+    "checkIn": "2:00 PM",
+    "checkOut": "12:00 PM",
+    "cancellation": "Moderate cancellation policy",
+    "coordinates": {
+      "lat": 11.4102,
+      "lng": 76.695
+    }
+  },
+  {
+    "id": "3",
+    "title": "Gemstone Bead Sanctuary",
+    "type": "Entire cottage",
+    "location": "Ooty, Tamil Nadu, India",
+    "price": 4200,
+    "rating": 4.7,
+    "reviewCount": 89,
+    "categories": ["gemstones", "beads"],
+    "images": [
+      "https://images.unsplash.com/photo-1647146174588-2e82dfdb70eb?q=80&w=350",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800"
+    ],
+    "host": {
+      "name": "Priya Sharma",
+      "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b47c?w=150",
+      "isSuperhost": false,
+      "joinedYear": 2020
+    },
+    "amenities": [
+      "WiFi",
+      "Kitchen",
+      "Garden view",
+      "Fireplace",
+      "Coffee maker"
+    ],
+    "description": "A charming cottage surrounded by lush tea plantations.",
+    "maxGuests": 4,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "beds": 3,
+    "checkIn": "2:00 PM",
+    "checkOut": "12:00 PM",
+    "cancellation": "Moderate cancellation policy",
+    "coordinates": {
+      "lat": 11.4102,
+      "lng": 76.695
+    }
+  },
+  {
+    "id": "4",
+    "title": "Sacred Yantra Retreat",
+    "type": "Entire cottage",
+    "location": "Ooty, Tamil Nadu, India",
+    "price": 4200,
+    "rating": 4.7,
+    "reviewCount": 89,
+    "categories": ["yantra", "puja"],
+    "images": [
+      "https://images.unsplash.com/photo-1551947391-249dcb8ed976?q=80&w=350",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800"
+    ],
+    "host": {
+      "name": "Priya Sharma",
+      "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b47c?w=150",
+      "isSuperhost": false,
+      "joinedYear": 2020
+    },
+    "amenities": [
+      "WiFi",
+      "Kitchen",
+      "Garden view",
+      "Fireplace",
+      "Coffee maker"
+    ],
+    "description": "A charming cottage surrounded by lush tea plantations.",
+    "maxGuests": 4,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "beds": 3,
+    "checkIn": "2:00 PM",
+    "checkOut": "12:00 PM",
+    "cancellation": "Moderate cancellation policy",
+    "coordinates": {
+      "lat": 11.4102,
+      "lng": 76.695
+    }
+  },
+  {
+    "id": "5",
+    "title": "Puja & Vastu Harmony House",
+    "type": "Entire cottage",
+    "location": "Ooty, Tamil Nadu, India",
+    "price": 4200,
+    "rating": 4.7,
+    "reviewCount": 89,
+    "categories": ["puja", "vastu"],
+    "images": [
+      "https://images.unsplash.com/photo-1629889591552-997c1cd38ff6?q=80&w=350",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800"
+    ],
+    "host": {
+      "name": "Priya Sharma",
+      "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b47c?w=150",
+      "isSuperhost": false,
+      "joinedYear": 2020
+    },
+    "amenities": [
+      "WiFi",
+      "Kitchen",
+      "Garden view",
+      "Fireplace",
+      "Coffee maker"
+    ],
+    "description": "A charming cottage surrounded by lush tea plantations.",
+    "maxGuests": 4,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "beds": 3,
+    "checkIn": "2:00 PM",
+    "checkOut": "12:00 PM",
+    "cancellation": "Moderate cancellation policy",
+    "coordinates": {
+      "lat": 11.4102,
+      "lng": 76.695
+    }
+  },
+  {
+    "id": "6",
+    "title": "Horoscope & Vastu Consultation Center",
+    "type": "Entire cottage",
+    "location": "Ooty, Tamil Nadu, India",
+    "price": 4200,
+    "rating": 4.7,
+    "reviewCount": 89,
+    "categories": ["horoscope", "vastu"],
+    "images": [
+      "https://images.unsplash.com/photo-1650809652935-2e5002ba40bf?q=80&w=350",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800"
+    ],
+    "host": {
+      "name": "Priya Sharma",
+      "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b47c?w=150",
+      "isSuperhost": false,
+      "joinedYear": 2020
+    },
+    "amenities": [
+      "WiFi",
+      "Kitchen",
+      "Garden view",
+      "Fireplace",
+      "Coffee maker"
+    ],
+    "description": "A charming cottage surrounded by lush tea plantations.",
+    "maxGuests": 4,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "beds": 3,
+    "checkIn": "2:00 PM",
+    "checkOut": "12:00 PM",
+    "cancellation": "Moderate cancellation policy",
+    "coordinates": {
+      "lat": 11.4102,
+      "lng": 76.695
+    }
+  }
+]

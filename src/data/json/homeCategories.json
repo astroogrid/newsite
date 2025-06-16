@@ -1,0 +1,9 @@
+[
+  { "name": "Horoscope", "icon": "UserRoundCheck", "filter": "horoscope" },
+  { "name": "Gemstones", "icon": "Heart", "filter": "gemstones" },
+  { "name": "Rudraksha", "icon": "Star", "filter": "rudraksha" },
+  { "name": "Beads & Bracelets", "icon": "Globe", "filter": "beads" },
+  { "name": "Yantra", "icon": "User", "filter": "yantra" },
+  { "name": "Puja", "icon": "Menu", "filter": "puja" },
+  { "name": "Vastu", "icon": "Search", "filter": "vastu" }
+]

@@ -1,0 +1,17 @@
+
+{
+  "mainMenu": [
+    { "id": 1, "name": "Home", "link": "/" },
+    { "id": 2, "name": "Blog", "link": "/blog-landing" },
+    { "id": 3, "name": "Templates", "link": "/template-landing" },
+    { "id": 4, "name": "Temple", "link": "/temple" }
+  ],
+  "mobileMenu": [
+    { "id": 1, "name": "Home", "link": "/" },
+    { "id": 2, "name": "Blog", "link": "/blog-landing" },
+    { "id": 3, "name": "Templates", "link": "/template-landing" },
+    { "id": 4, "name": "Cart", "link": "/cart" },
+    { "id": 5, "name": "Favorites", "link": "/favorites" },
+    { "id": 6, "name": "Sign In", "link": "/login" }
+  ]
+}

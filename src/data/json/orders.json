@@ -1,0 +1,29 @@
+[
+  {
+    "id": "ORD-2024-001",
+    "date": "2024-03-15",
+    "status": "Delivered",
+    "total": 299.99,
+    "items": [
+      { "name": "Compact Zoom", "quantity": 1, "price": 299.99 }
+    ]
+  },
+  {
+    "id": "ORD-2024-002",
+    "date": "2024-03-10",
+    "status": "Processing",
+    "total": 799.99,
+    "items": [
+      { "name": "DSLR Pro", "quantity": 1, "price": 799.99 }
+    ]
+  },
+  {
+    "id": "ORD-2024-003",
+    "date": "2024-03-05",
+    "status": "Shipped",
+    "total": 149.99,
+    "items": [
+      { "name": "Camera Bag", "quantity": 1, "price": 149.99 }
+    ]
+  }
+]

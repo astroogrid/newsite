@@ -1,0 +1,117 @@
+
+[
+  {
+    "id": 1,
+    "name": "Natural Malachite Gemstone 108 Bead Japa Mala Necklace",
+    "price": 799.99,
+    "originalPrice": 999.99,
+    "discountPercentage": 20,
+    "category": "Necklace",
+    "brand": "AstrooGrid",
+    "rating": 4.6,
+    "image": "https://gemglow.in/cdn/shop/files/Malachite1-Photoroom.jpg?v=1721844071",
+    "description": "Natural Malachite Gemstone 108 Bead Jap Mala Necklace - 6mm, 7mm, 8mm Bead Sizes, 20-21 Inch Length - Handcrafted Meditation and Prayer Beads with Green Tassel for Spiritual Healing and Balance",
+    "slug": "Natural-Malachite-Gemstone-108-Bead-Japa-Mala-Necklace",
+    "specs": [
+      "20MP 1-inch Sensor",
+      "30x Optical Zoom",
+      "4K/30p Video",
+      "Built-in ND Filter",
+      "Flip-out Touchscreen"
+    ],
+    "images": [
+      {
+        "id": 1,
+        "url": "https://gemglow.in/cdn/shop/files/Malachite3-Photoroom.jpg?v=1721844072",
+        "alt": "Compact Zoom front view"
+      },
+      {
+        "id": 2,
+        "url": "https://gemglow.in/cdn/shop/files/Malachite5-Photoroom.jpg?v=1721844072&width=2048",
+        "alt": "Compact Zoom in use"
+      },
+      {
+        "id": 3,
+        "url": "https://gemglow.in/cdn/shop/files/Malachite1-Photoroom.jpg?v=1721844071",
+        "alt": "Compact Zoom with accessories"
+      },
+      {
+        "id": 4,
+        "url": "https://gemglow.in/cdn/shop/files/Malachite2-Photoroom.jpg?v=1721844071",
+        "alt": "Compact Zoom detail"
+      },
+      {
+        "id": 5,
+        "url": "https://gemglow.in/cdn/shop/files/Malachite3-Photoroom.jpg?v=1721844072",
+        "alt": "Compact Zoom front view"
+      },
+      {
+        "id": 6,
+        "url": "https://gemglow.in/cdn/shop/files/Malachite5-Photoroom.jpg?v=1721844072&width=2048",
+        "alt": "Compact Zoom in use"
+      }
+    ],
+    "reviews": [],
+    "sizes": [],
+    "colors": [],
+    "tags": [
+      "necklace"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Natural Rhodonite Gemstone 108 Bead Japa Mala Necklace",
+    "price": 799.99,
+    "category": "Necklace",
+    "brand": "AstrooGrid",
+    "rating": 4.6,
+    "image": "https://gemglow.in/cdn/shop/files/Rhodonite2-Photoroom.jpg?v=1721844029",
+    "description": "Natural Malachite Gemstone 108 Bead Jap Mala Necklace - 6mm, 7mm, 8mm Bead Sizes, 20-21 Inch Length - Handcrafted Meditation and Prayer Beads with Green Tassel for Spiritual Healing and Balance",
+    "slug": "Natural-Malachite-Gemstone-108-Bead-Japa-Mala-Necklace",
+    "specs": [
+      "20MP 1-inch Sensor",
+      "30x Optical Zoom",
+      "4K/30p Video",
+      "Built-in ND Filter",
+      "Flip-out Touchscreen"
+    ],
+    "images": [
+      {
+        "id": 1,
+        "url": "https://gemglow.in/cdn/shop/files/Rhodonite2-Photoroom.jpg?v=1721844029",
+        "alt": "Compact Zoom front view"
+      },
+      {
+        "id": 2,
+        "url": "https://gemglow.in/cdn/shop/files/Rhodonite2-Photoroom.jpg?v=1721844029",
+        "alt": "Compact Zoom in use"
+      },
+      {
+        "id": 3,
+        "url": "https://gemglow.in/cdn/shop/files/Malachite1-Photoroom.jpg?v=1721844071",
+        "alt": "Compact Zoom with accessories"
+      },
+      {
+        "id": 4,
+        "url": "https://gemglow.in/cdn/shop/files/Malachite2-Photoroom.jpg?v=1721844071",
+        "alt": "Compact Zoom detail"
+      },
+      {
+        "id": 5,
+        "url": "https://gemglow.in/cdn/shop/files/Malachite3-Photoroom.jpg?v=1721844072",
+        "alt": "Compact Zoom front view"
+      },
+      {
+        "id": 6,
+        "url": "https://gemglow.in/cdn/shop/files/Malachite5-Photoroom.jpg?v=1721844072&width=2048",
+        "alt": "Compact Zoom in use"
+      }
+    ],
+    "reviews": [],
+    "sizes": [],
+    "colors": [],
+    "tags": [
+      "necklace"
+    ]
+  }
+]

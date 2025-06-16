@@ -1,0 +1,110 @@
+[
+  {
+    "id": "rev-001",
+    "author": "Sarah Johnson",
+    "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150",
+    "rating": 5,
+    "date": "November 2024",
+    "comment": "Absolutely stunning villa! The mountain views were breathtaking and the host was incredibly welcoming. The amenities were top-notch and we felt completely at home.",
+    "helpful": 12
+  },
+  {
+    "id": "rev-002",
+    "author": "Michael Chen",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150",
+    "rating": 5,
+    "date": "October 2024",
+    "comment": "Perfect getaway spot! The villa exceeded our expectations. Clean, spacious, and the hot tub was amazing after long walks in the tea gardens.",
+    "helpful": 8
+  },
+  {
+    "id": "rev-003",
+    "author": "Emma Wilson",
+    "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b47c?w=150",
+    "rating": 4,
+    "date": "October 2024",
+    "comment": "Beautiful location and well-maintained property. Only minor issue was the WiFi being a bit slow, but overall a wonderful experience.",
+    "helpful": 5
+  },
+  {
+    "id": "rev-004",
+    "author": "David Kumar",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150",
+    "rating": 5,
+    "date": "September 2024",
+    "comment": "Rajesh was an excellent host! The villa was exactly as described and the views were incredible. Highly recommend for anyone visiting Ooty.",
+    "helpful": 15
+  },
+  {
+    "id": "rev-005",
+    "author": "Lisa Thompson",
+    "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150",
+    "rating": 5,
+    "date": "September 2024",
+    "comment": "The perfect place to relax and unwind. The fireplace was cozy during the cool evenings and the kitchen was fully equipped for cooking.",
+    "helpful": 7
+  },
+  {
+    "id": "rev-006",
+    "author": "Alex Rodriguez",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150",
+    "rating": 4,
+    "date": "August 2024",
+    "comment": "Great villa with amazing amenities. The pool was refreshing and the location is perfect for exploring Ooty's attractions.",
+    "helpful": 9
+  },
+  {
+    "id": "rev-007",
+    "author": "Sophie Martin",
+    "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b47c?w=150",
+    "rating": 5,
+    "date": "August 2024",
+    "comment": "Stunning property! The attention to detail was impressive and the host went above and beyond to ensure our comfort.",
+    "helpful": 11
+  },
+  {
+    "id": "rev-008",
+    "author": "James Park",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150",
+    "rating": 5,
+    "date": "July 2024",
+    "comment": "Couldn't have asked for a better vacation rental. The mountain views from the balcony were absolutely spectacular!",
+    "helpful": 13
+  },
+  {
+    "id": "rev-009",
+    "author": "Rachel Green",
+    "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150",
+    "rating": 4,
+    "date": "July 2024",
+    "comment": "Lovely villa with great facilities. The garden was beautiful and perfect for morning coffee. Would definitely stay again!",
+    "helpful": 6
+  },
+  {
+    "id": "rev-010",
+    "author": "Tom Wilson",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150",
+    "rating": 5,
+    "date": "June 2024",
+    "comment": "Exceptional hospitality and a beautiful property. The hot tub under the stars was unforgettable. Highly recommended!",
+    "helpful": 10
+  },
+  {
+    "id": "rev-011",
+    "author": "Maria Garcia",
+    "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b47c?w=150",
+    "rating": 5,
+    "date": "June 2024",
+    "comment": "Perfect for a family vacation. The kids loved the pool and we enjoyed the peaceful surroundings. Everything was clean and well-maintained.",
+    "helpful": 8
+  },
+  {
+    "id": "rev-012",
+    "author": "Robert Lee",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150",
+    "rating": 4,
+    "date": "May 2024",
+    "comment": "Great location with easy access to Ooty's main attractions. The villa was comfortable and the host provided excellent recommendations.",
+    "helpful": 4
+  }
+]

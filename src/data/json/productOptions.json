@@ -1,0 +1,12 @@
+{
+  "productSizes": [
+    { "id": 1, "label": "Standard", "available": true, "price": 1299.99 },
+    { "id": 2, "label": "Pro", "available": true, "price": 1499.99 },
+    { "id": 3, "label": "Max", "available": true, "price": 1699.99 }
+  ],
+  "productColors": [
+    { "id": 1, "name": "Black", "hexCode": "#000000" },
+    { "id": 2, "name": "Silver", "hexCode": "#C0C0C0" },
+    { "id": 3, "name": "Gold", "hexCode": "#FFD700" }
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "author": "Jane Cooper",
+    "rating": 5,
+    "date": "May 12, 2025",
+    "title": "Absolutely love it!",
+    "content": "This product exceeded my expectations. The quality is amazing and it works perfectly for my needs. Highly recommend to anyone considering a purchase."
+  },
+  {
+    "id": 2,
+    "author": "Alex Morgan",
+    "rating": 4,
+    "date": "April 28, 2025",
+    "title": "Great value for money",
+    "content": "Very happy with my purchase. The product feels premium and performs well. Only missing one star because the shipping took longer than expected."
+  },
+  {
+    "id": 3,
+    "author": "Sam Wilson",
+    "rating": 5,
+    "date": "April 15, 2025",
+    "title": "Best purchase this year",
+    "content": "I have been using this for a month now and it has completely changed my workflow. Amazing quality and the customer service was excellent too."
+  }
+]

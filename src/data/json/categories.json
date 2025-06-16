@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Cameras",
+    "slug": "cameras",
+    "image": "https://a0.muscache.com/im/pictures/Mt/MtTemplate-6076649/original/d5d773ef-2351-42dc-9e0a-02e481025f71.jpeg?im_w=960",
+    "featured": [
+      { "id": 1, "name": "Pro Camera X1", "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=200&h=200&fit=crop", "slug": "pro-camera-x1" },
+      { "id": 2, "name": "Mirror 5000", "image": "https://images.unsplash.com/photo-1552168324-d612d77725e3?w=200&h=200&fit=crop", "slug": "mirror-5000" }
+    ],
+    "subcategories": [
+      { "id": 11, "name": "DSLR Cameras", "slug": "dslr-cameras" },
+      { "id": 12, "name": "Mirrorless Cameras", "slug": "mirrorless-cameras" },
+      { "id": 13, "name": "Compact Cameras", "slug": "compact-cameras" },
+      { "id": 14, "name": "Action Cameras", "slug": "action-cameras" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Lenses",
+    "slug": "lenses",
+    "image": "https://a0.muscache.com/im/pictures/Mt/MtTemplate-6076649/original/9b8a52a4-c740-4648-831a-f4c846e3dced.jpeg?im_w=480",
+    "featured": [
+      { "id": 201, "name": "Ultra-Wide Lens", "image": "https://images.unsplash.com/photo-1517948430535-1e2469d314fe?w=200&h=200&fit=crop", "slug": "ultra-wide-lens" },
+      { "id": 202, "name": "Portrait Lens", "image": "https://images.unsplash.com/photo-1517948430535-1e2469d314fe?w=200&h=200&fit=crop", "slug": "portrait-lens" }
+    ],
+    "subcategories": [
+      { "id": 21, "name": "Wide Angle", "slug": "wide-angle" },
+      { "id": 22, "name": "Telephoto", "slug": "telephoto" },
+      { "id": 23, "name": "Prime", "slug": "prime" },
+      { "id": 24, "name": "Macro", "slug": "macro" }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Accessories",
+    "slug": "accessories",
+    "image": "https://a0.muscache.com/im/pictures/Mt/MtTemplate-3246613/original/a19efd3a-a9de-48b3-a695-c2c20ed73f64.jpeg?im_w=480",
+    "featured": [
+      { "id": 301, "name": "Premium Tripod", "image": "https://images.unsplash.com/photo-1517948430535-1e2469d314fe?w=200&h=200&fit=crop", "slug": "premium-tripod" },
+      { "id": 302, "name": "Camera Bag", "image": "https://images.unsplash.com/photo-1517948430535-1e2469d314fe?w=200&h=200&fit=crop", "slug": "camera-bag" }
+    ],
+    "subcategories": [
+      { "id": 31, "name": "Tripods & Stabilizers", "slug": "tripods-stabilizers" },
+      { "id": 32, "name": "Bags & Cases", "slug": "bags-cases" },
+      { "id": 33, "name": "Straps & Grips", "slug": "straps-grips" },
+      { "id": 34, "name": "Cleaning Kits", "slug": "cleaning-kits" }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Lighting",
+    "slug": "lighting",
+    "image": "https://images.unsplash.com/photo-1602525962574-3bc829fbed3c?q=80&w=1470&auto=format&fit=crop",
+    "featured": [
+      { "id": 401, "name": "Studio Lights", "image": "https://images.unsplash.com/photo-1609250291996-fdebe6020a8f?w=200&h=200&fit=crop", "slug": "studio-lights" },
+      { "id": 402, "name": "Ring Light", "image": "https://images.unsplash.com/photo-1517948430535-1e2469d314fe?w=200&h=200&fit=crop", "slug": "ring-light" }
+    ],
+    "subcategories": [
+      { "id": 41, "name": "Studio Lighting", "slug": "studio-lighting" },
+      { "id": 42, "name": "Flash Units", "slug": "flash-units" },
+      { "id": 43, "name": "LED Panels", "slug": "led-panels" },
+      { "id": 44, "name": "Light Modifiers", "slug": "light-modifiers" }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Tripods",
+    "slug": "tripods",
+    "image": "https://images.unsplash.com/photo-1602525962574-3bc829fbed3c?q=80&w=1470&auto=format&fit=crop",
+    "featured": [
+      { "id": 501, "name": "Carbon Fiber Tripod", "image": "https://images.unsplash.com/photo-1495707902641-75cac588d2e9?w=200&h=200&fit=crop", "slug": "carbon-fiber-tripod" },
+      { "id": 502, "name": "Mini Tripod", "image": "https://images.unsplash.com/photo-1517948430535-1e2469d314fe?w=200&h=200&fit=crop", "slug": "mini-tripod" }
+    ],
+    "subcategories": [
+      { "id": 51, "name": "Travel Tripods", "slug": "travel-tripods" },
+      { "id": 52, "name": "Studio Tripods", "slug": "studio-tripods" },
+      { "id": 53, "name": "Monopods", "slug": "monopods" },
+      { "id": 54, "name": "Tabletop Tripods", "slug": "tabletop-tripods" }
+    ]
+  }
+]
