@@ -22,59 +22,38 @@ const BentoGrid = () => {
       textColor: "text-black",
       buttonColor: "bg-black text-white hover:bg-gray-800",
       icon: <BookOpen className="w-6 h-6" />,
-      image:
-        "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?q=80&w=1000&auto=format&fit=crop",
+      image:"https://images.pexels.com/photos/4040638/pexels-photo-4040638.jpeg",
       hasCarousel: true,
       carouselItems: [
         {
           title: "Astrology Books",
           image:
-            "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?q=80&w=1000&auto=format&fit=crop",
+            "https://gemglow.in/cdn/shop/files/Malachite3-Photoroom.jpg?v=1721844072&w=1200&q=80&auto=format",
           discount: "20% OFF",
         },
         {
           title: "Astrology Books",
           image:
-            "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?q=80&w=1000&auto=format&fit=crop",
+            "https://gemglow.in/cdn/shop/files/4_5978a2ab-911d-4b22-832c-7d398244fc7f.png?v=1714715536&width=1100",
           discount: "70% OFF",
         },
         {
           title: "Numerology Guide",
           image:
-            "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?q=80&w=1000&auto=format&fit=crop",
+            "https://gemglow.in/cdn/shop/files/1_57cfa3b4-dbd3-493c-9eb9-be985cc3e687.jpg?v=1710754834&width=1100",
           discount: "85% OFF",
         },
-        {
-          title: "Numerology Guide",
-          image:
-            "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?q=80&w=1000&auto=format&fit=crop",
-          discount: "95% OFF",
-        },
-        {
-          title: "Numerology Guide",
-          image:
-            "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?q=80&w=1000&auto=format&fit=crop",
-          discount: "95% OFF",
-        },
-        {
-          title: "Vastu Shastra",
-          image:
-            "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?q=80&w=1000&auto=format&fit=crop",
-          discount: "25% OFF",
-        },
+       
       ],
     },
     {
       id: 2,
       title: "Rosary 15% OFF",
       subtitle: "Limited Time Offer",
-      bgColor: "bg-gradient-to-br from-pink-300 to-rose-400",
+      bgColor: "bg-gradient-to-br from-pink-300/10 to-rose-400/10",
       textColor: "text-white",
-      buttonColor: "bg-red-500 text-white hover:bg-red-600",
-      icon: <Sparkles className="w-6 h-6" />,
-      countdown: true,
       image:
-        "https://images.unsplash.com/photo-1748783266580-a5b05c4e54b1?q=80&w=500",
+        "https://5.imimg.com/data5/SELLER/Default/2024/9/452119150/LR/ND/EG/81129831/vastu-consultant-in-rohini-500x500.jpg",
     },
     {
       id: 3,
@@ -85,7 +64,7 @@ const BentoGrid = () => {
       buttonColor: "bg-white text-orange-600 hover:bg-gray-100",
       icon: <Star className="w-6 h-6" />,
       image:
-        "https://images.unsplash.com/photo-1582719188393-bb71ca45dbb9?q=80&w=1000&auto=format&fit=crop",
+        "https://images.pexels.com/photos/6806434/pexels-photo-6806434.jpeg",
     },
     {
       id: 4,
@@ -149,36 +128,38 @@ const BentoGrid = () => {
       <div className="grid grid-cols-1 md:grid-cols-6 gap-4 h-[60vh] max-h-80 lg:h-[70vh] lg:max-h-96 2xl:h-[80vh] 2xl:max-h-[430px]">
         {/* Main large block with carousel */}
         <motion.div
-          className={`lg:col-span-2 lg:row-span-2 col-span-6 ${gridItems[0].bgColor} ${gridItems[0].textColor} rounded-2xl p-2 relative overflow-hidden group cursor-pointer`}
+          className={`lg:col-span-2 lg:row-span-2 col-span-6 ${gridItems[0].bgColor} ${gridItems[0].textColor} rounded-2xl relative overflow-hidden group cursor-pointer`}
           initial={{ opacity: 0, scale: 0.95 }}
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 0.5 }}
           whileHover={{ scale: 1.02 }}
         >
-          
-
           <div className="relative z-10 h-full flex flex-col justify-between">
             {gridItems[0].hasCarousel && (
-              <div>
+              <div className="hidden lg:block">
                 <Carousel className="w-full h-full" opts={{ loop: true }}>
                   <CarouselContent>
                     {gridItems[0].carouselItems?.map((item, index) => (
                       <CarouselItem key={index}>
-                        <div className="bg-white/10 backdrop-blur-sm rounded-lg p-3">
+                        <div className="bg-white rounded-xl relative">
                           <img
                             src={item.image}
                             alt={item.title}
-                            className="w-full h-full object-cover"
+                            className="w-full h-full object-cover z-0 rounded-xl"
                           />
-                          <p className="font-semibold">{item.title}</p>
-                          <p className="text-sm opacity-80">{item.discount}</p>
+                          <div className="absolute bottom-0 left-0 right-0 p-4 bg-black/50 text-white flex flex-col gap-1 z-10">
+                            <p className="font-semibold">{item.title}</p>
+                            <p className="text-sm opacity-80">
+                              {item.discount}
+                            </p>
+                          </div>
                         </div>
                       </CarouselItem>
                     ))}
                   </CarouselContent>
-                   
-                    <CarouselPrevious className="left-2 bg-white/20 hover:bg-white/40 border-none text-current" />
-                    <CarouselNext className="right-2 bg-white/20 hover:bg-white/40 border-none text-current" />
+
+                  <CarouselPrevious className="left-2 bg-white/20 hover:bg-white/40 border-none text-current" />
+                  <CarouselNext className="right-2 bg-white/20 hover:bg-white/40 border-none text-current" />
                 </Carousel>
               </div>
             )}
@@ -193,21 +174,16 @@ const BentoGrid = () => {
           transition={{ duration: 0.5, delay: 0.1 }}
           whileHover={{ scale: 1.02 }}
         >
-           <div className="absolute inset-0 opacity-20">
+          <div className="absolute inset-0">
             <img
-              src={gridItems[0].image}
-              alt={gridItems[0].title}
+              src="https://images.pexels.com/photos/2251247/pexels-photo-2251247.jpeg"
+              alt={gridItems[1].title}
               className="w-full h-full object-cover"
             />
           </div>
 
-          <div className="relative z-10">
-           
-            <h3 className="text-2xl font-bold mb-2">{gridItems[1].title}</h3>
-
-            <Button className={`${gridItems[1].buttonColor} mt-4`}>
-              BUY NOW
-            </Button>
+          <div className="relative bg-black/30 backdrop-blur-sm rounded-lg w-fit px-4 py-2 ring-2 ring-gray-100/20 z-10 h-fit flex flex-col justify-between">
+            <h3 className="text-lg text-white">Transform Your Space with Vastu</h3>
           </div>
         </motion.div>
 
@@ -219,10 +195,17 @@ const BentoGrid = () => {
           transition={{ duration: 0.5, delay: 0.1 }}
           whileHover={{ scale: 1.02 }}
         >
-          <div className="relative z-10"></div>
+           <div className="absolute inset-0">
+            <img
+              src="https://images.pexels.com/photos/6944923/pexels-photo-6944923.jpeg"
+              alt={gridItems[0].title}
+              className="w-full h-full object-cover"
+            />
+          </div>
+          <div className="relative z-10">Small Box</div>
         </motion.div>
 
-        {/* Puja Yantra block */}
+        {/* Numerology block */}
         <motion.div
           className={` hidden lg:block ${gridItems[2].bgColor} ${gridItems[2].textColor}  col-span-2 rounded-2xl p-6 relative overflow-hidden group cursor-pointer`}
           initial={{ opacity: 0, x: -20 }}
@@ -230,26 +213,15 @@ const BentoGrid = () => {
           transition={{ duration: 0.5, delay: 0.2 }}
           whileHover={{ scale: 1.02 }}
         >
-          <div className="absolute top-4 right-4 opacity-30">
+           <div className="absolute inset-0">
             <img
-              src={gridItems[2].image}
-              alt={gridItems[2].title}
-              className="w-16 h-16 object-cover rounded"
+              src="https://astrala.imgix.net/7rwmicwpL6xw5rtT8zll6C/fb6eb68d337462430469ceb7b6abd0f1/master-numbers-numerology-11-22-33.jpg"
+              alt={gridItems[0].title}
+              className="w-full h-full object-cover"
             />
           </div>
-
-          <div className="relative z-10 h-full flex flex-col justify-between">
-            <div>
-              <div className="flex items-center gap-2 mb-2">
-                {gridItems[2].icon}
-              </div>
-              <h3 className="text-xl font-bold mb-1">{gridItems[2].title}</h3>
-              <p className="text-sm opacity-80">{gridItems[2].subtitle}</p>
-            </div>
-
-            <Button className={`${gridItems[2].buttonColor} w-fit mt-4`}>
-              BUY NOW
-            </Button>
+           <div className="relative bg-black/10 backdrop-blur-sm rounded-lg w-fit p-4 ring-2 ring-gray-100/20 z-10 h-fit flex flex-col justify-between">
+            <h3 className="text-lg text-white">Numerology</h3>
           </div>
         </motion.div>
 
@@ -261,26 +233,17 @@ const BentoGrid = () => {
           transition={{ duration: 0.5, delay: 0.3 }}
           whileHover={{ scale: 1.02 }}
         >
-          <div className="absolute top-4 right-4 opacity-30">
+           <div className="absolute inset-0">
             <img
-              src={gridItems[3].image}
-              alt={gridItems[3].title}
-              className="w-16 h-16 object-cover rounded-full"
+              src="https://goop-img.com/wp-content/uploads/1999/03/What-Astrology-Can-Teach-Us-about-Self-Acceptance_Yasmin-Imamura.jpg"
+              alt={gridItems[0].title}
+              className="w-full h-full object-cover"
             />
           </div>
-
           <div className="relative z-10 h-full flex flex-col justify-between">
-            <div>
-              <div className="flex items-center gap-2 mb-2">
-                {gridItems[3].icon}
-              </div>
-              <h3 className="text-xl font-bold mb-1">{gridItems[3].title}</h3>
-              <p className="text-sm opacity-80">{gridItems[3].subtitle}</p>
-            </div>
-
-            <Button className={`${gridItems[3].buttonColor} w-fit mt-4`}>
-              BUY NOW
-            </Button>
+            <div className="relative bg-white/40 backdrop-blur-sm rounded-lg w-fit p-4 ring-2 ring-gray-800/20 z-10 h-fit flex flex-col justify-between">
+            <h3 className="text-lg text-black">Astrology</h3>
+          </div>
           </div>
         </motion.div>
       </div>

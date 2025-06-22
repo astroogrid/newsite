@@ -92,7 +92,7 @@ const StayDetailsPage = () => {
         <div className="grid grid-cols-4 grid-rows-2 gap-2 h-96 mb-8 rounded-xl overflow-hidden">
           <div className="col-span-2 row-span-2 relative">
             <img
-              src={stay.images[0]}
+              src={stay.images[1]}
               alt={stay.title}
               className="w-full h-full object-cover cursor-pointer hover:brightness-90 transition-all"
               onClick={() => setShowAllPhotos(true)}

@@ -32,7 +32,7 @@ import ProductFormPage from "./pages/ProductFormPage";
 import ProductListingPage from "./pages/ProductListingPage";
 import NotFound from "./pages/NotFound";
 import CategoryPage from "./pages/CategoryPage";
-import StayDetailsPage from "./pages/StayDetailsPage";
+import StayDetailsPage from "./pages/CategoryDetailsPage";
 import BlogPage from "./pages/BlogPage";
 import BlogArticlePage from "./pages/BlogArticlePage";
 import BlogLandingPage from "./pages/BlogLandingPage";

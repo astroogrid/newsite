@@ -89,7 +89,7 @@ const AirbnbHomePage = () => {
                   >
                     <Card className="border-none shadow-none overflow-hidden">
                       <div className="relative rounded-xl overflow-hidden">
-                        <Link to={`/stays/ooty-india/${stay.id}`}>
+                        <Link to={`/stays/india/${stay.id}`}>
                           <img
                             src={stay.images[0]}
                             alt={stay.title}
@@ -114,7 +114,7 @@ const AirbnbHomePage = () => {
                       </div>
                       
                       <CardContent className="p-0 pt-3">
-                        <Link to={`/stays/ooty-india/${stay.id}`}>
+                        <Link to={`/stays/india/${stay.id}`}>
                           <div className="flex items-center justify-between mb-1">
                             <h3 className="font-semibold text-gray-900 truncate text-xs">{stay.location}</h3>
                             <div className="flex items-center gap-1">

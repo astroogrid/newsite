@@ -14,14 +14,14 @@ const CategoryPage = () => {
   return (
     <div className="min-h-screen flex flex-col">
       <Helmet>
-        <title>Category | AstrooGrid Photography Equipment Store</title>
+        <title>Category | AstrooGrid Astrology Predictions Store</title>
         <meta
           name="description"
           content="Browse our categories of spiritual and wellness products including horoscope, gemstones, rudraksha, and more."
         />
         <meta
           property="og:title"
-          content="Category | AstrooGrid Photography Equipment Store"
+          content="Category | AstrooGrid Astrology Predictions Store"
         />
         <meta
           property="og:description"

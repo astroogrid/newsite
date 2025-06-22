@@ -24,7 +24,7 @@ const Header: React.FC = () => {
   const isBlogPage = location.pathname === '/blog' || location.pathname.startsWith('/blog/') || location.pathname === '/blog-landing' || location.pathname === '/temple';
 
   return (
-    <header className="sticky top-0 z-30 w-full border-b bg-white shadow-sm">
+    <header className="sticky top-0 z-30 w-full border-b bg-white/90 backdrop-blur-sm shadow-sm">
       <div className="container mx-auto px-3 sm:px-4 lg:px-6">
         <div className="flex h-14 sm:h-16 items-center justify-between gap-2">
           {/* Left section - Logo and Desktop Navigation */}

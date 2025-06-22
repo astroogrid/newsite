@@ -1,82 +1,65 @@
 [
   {
     "id": 1,
-    "name": "Cameras",
-    "slug": "cameras",
-    "image": "https://a0.muscache.com/im/pictures/Mt/MtTemplate-6076649/original/d5d773ef-2351-42dc-9e0a-02e481025f71.jpeg?im_w=960",
+    "name": "Gem Stones",
+    "slug": "gemstones",
+    "image": "https://t4.ftcdn.net/jpg/04/35/88/43/360_F_435884305_VgJ53f6JyuRXJbCWJ8P08XY2oKPbhIx3.jpg",
     "featured": [
-      { "id": 1, "name": "Pro Camera X1", "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=200&h=200&fit=crop", "slug": "pro-camera-x1" },
-      { "id": 2, "name": "Mirror 5000", "image": "https://images.unsplash.com/photo-1552168324-d612d77725e3?w=200&h=200&fit=crop", "slug": "mirror-5000" }
+      { "id": 1, "name": "Ruby Gemstones", "image": "https://t4.ftcdn.net/jpg/04/35/88/43/360_F_435884305_VgJ53f6JyuRXJbCWJ8P08XY2oKPbhIx3.jpg", "slug": "Ruby Gemstones" },
+      { "id": 2, "name": "Yellow Sapphire", "image": "https://t4.ftcdn.net/jpg/15/28/45/23/360_F_1528452317_H2PHVrswkCJlpDMjEnn3THZASfNRv7RG.jpg", "slug": "Yellow Sapphire" },
+      { "id": 3, "name": "Blue Sapphire", "image": "https://static.vecteezy.com/system/resources/thumbnails/054/908/743/small_2x/brilliant-blue-gemstone-glimmers-on-textured-surface-creating-a-stunning-visual-display-of-color-and-light-free-photo.jpeg", "slug": "Blue Sapphire" }
     ],
     "subcategories": [
-      { "id": 11, "name": "DSLR Cameras", "slug": "dslr-cameras" },
-      { "id": 12, "name": "Mirrorless Cameras", "slug": "mirrorless-cameras" },
-      { "id": 13, "name": "Compact Cameras", "slug": "compact-cameras" },
-      { "id": 14, "name": "Action Cameras", "slug": "action-cameras" }
+      { "id": 11, "name": "Ruby Gemstones", "slug": "ruby-gemstone" },
+      { "id": 12, "name": "Pearl Gemstone", "slug": "pearl-gemstone" },
+      { "id": 13, "name": "Coral Gemstone", "slug": "coral-gemstone" },
+      { "id": 14, "name": "Emerald Gemstone", "slug": "emerald-gemstone" },
+      { "id": 15, "name": "Yellow Sapphire", "slug": "yellow-sapphire" },
+      { "id": 16, "name": "Blue Sapphire", "slug": "blue-sapphire" },
+      { "id": 17, "name": "Hessonite Gemstone", "slug": "hessonite-gemstone" }
     ]
   },
   {
     "id": 2,
-    "name": "Lenses",
-    "slug": "lenses",
-    "image": "https://a0.muscache.com/im/pictures/Mt/MtTemplate-6076649/original/9b8a52a4-c740-4648-831a-f4c846e3dced.jpeg?im_w=480",
+    "name": "Birth Stones",
+    "slug": "birth-stones",
+    "image": "https://t4.ftcdn.net/jpg/07/86/38/67/360_F_786386732_CFkkGUQKqB8KifwrMrH2LLgQrgZ03fIZ.jpg",
     "featured": [
-      { "id": 201, "name": "Ultra-Wide Lens", "image": "https://images.unsplash.com/photo-1517948430535-1e2469d314fe?w=200&h=200&fit=crop", "slug": "ultra-wide-lens" },
-      { "id": 202, "name": "Portrait Lens", "image": "https://images.unsplash.com/photo-1517948430535-1e2469d314fe?w=200&h=200&fit=crop", "slug": "portrait-lens" }
+      { "id": 201, "name": "Amethyst", "image": "https://media.istockphoto.com/id/184119870/photo/amethyst-crystals.jpg?s=612x612&w=0&k=20&c=Wg_hsjXsmLqn0By-rF1SVyDIj7INBKfzjyuJOwMjPGc=", "slug": "Amethyst-Birth-Stone" },
+      { "id": 202, "name": "Moonstone", "image": "https://t4.ftcdn.net/jpg/07/86/38/67/360_F_786386732_CFkkGUQKqB8KifwrMrH2LLgQrgZ03fIZ.jpg", "slug": "Moonstone-Birth-Stone" },
+      { "id": 202, "name": "Emerald", "image": "https://i.ebayimg.com/images/g/jVAAAOSwZGBjpHGo/s-l400.jpg", "slug": "Emerald-Birth-Stone" }
     ],
     "subcategories": [
-      { "id": 21, "name": "Wide Angle", "slug": "wide-angle" },
-      { "id": 22, "name": "Telephoto", "slug": "telephoto" },
-      { "id": 23, "name": "Prime", "slug": "prime" },
-      { "id": 24, "name": "Macro", "slug": "macro" }
+      { "id": 21, "name": "January - Garnet", "slug": "january-garnet" },
+      { "id": 22, "name": "February - Amethyst", "slug": "February-amethyst" },
+      { "id": 23, "name": "March - Aquamarine", "slug": "March-Aquamarine" },
+      { "id": 24, "name": "May - Emerald + Agate", "slug": "May-embrald" },
+      { "id": 25, "name": "June - Moonstone + Pearl", "slug": "June-Moonstone-Pearl" },
+      { "id": 26, "name": "July - Granet", "slug": "january-granet" },
+      { "id": 27, "name": "August - Granet", "slug": "january-granet" }
+      
     ]
   },
   {
     "id": 3,
-    "name": "Accessories",
-    "slug": "accessories",
-    "image": "https://a0.muscache.com/im/pictures/Mt/MtTemplate-3246613/original/a19efd3a-a9de-48b3-a695-c2c20ed73f64.jpeg?im_w=480",
+    "name": "Crystal Bracelets",
+    "slug": "Crystal-Bracelets",
+    "image": "https://gemglow.in/cdn/shop/files/P1461414.jpg",
     "featured": [
-      { "id": 301, "name": "Premium Tripod", "image": "https://images.unsplash.com/photo-1517948430535-1e2469d314fe?w=200&h=200&fit=crop", "slug": "premium-tripod" },
-      { "id": 302, "name": "Camera Bag", "image": "https://images.unsplash.com/photo-1517948430535-1e2469d314fe?w=200&h=200&fit=crop", "slug": "camera-bag" }
+      { "id": 301, "name": "Black Tigers", "image": "https://gemglow.in/cdn/shop/files/P1461414.jpg", "slug": "Black-Tigers-Eye-Bracelet" },
+      { "id": 302, "name": "Rose Quartz Bracelet", "image": "https://gemglow.in/cdn/shop/files/P1461414.jpg", "slug": "Seven-Chakra-Healing-Crystal-Bracelet" }
     ],
     "subcategories": [
-      { "id": 31, "name": "Tripods & Stabilizers", "slug": "tripods-stabilizers" },
-      { "id": 32, "name": "Bags & Cases", "slug": "bags-cases" },
-      { "id": 33, "name": "Straps & Grips", "slug": "straps-grips" },
-      { "id": 34, "name": "Cleaning Kits", "slug": "cleaning-kits" }
-    ]
-  },
-  {
-    "id": 4,
-    "name": "Lighting",
-    "slug": "lighting",
-    "image": "https://images.unsplash.com/photo-1602525962574-3bc829fbed3c?q=80&w=1470&auto=format&fit=crop",
-    "featured": [
-      { "id": 401, "name": "Studio Lights", "image": "https://images.unsplash.com/photo-1609250291996-fdebe6020a8f?w=200&h=200&fit=crop", "slug": "studio-lights" },
-      { "id": 402, "name": "Ring Light", "image": "https://images.unsplash.com/photo-1517948430535-1e2469d314fe?w=200&h=200&fit=crop", "slug": "ring-light" }
-    ],
-    "subcategories": [
-      { "id": 41, "name": "Studio Lighting", "slug": "studio-lighting" },
-      { "id": 42, "name": "Flash Units", "slug": "flash-units" },
-      { "id": 43, "name": "LED Panels", "slug": "led-panels" },
-      { "id": 44, "name": "Light Modifiers", "slug": "light-modifiers" }
-    ]
-  },
-  {
-    "id": 5,
-    "name": "Tripods",
-    "slug": "tripods",
-    "image": "https://images.unsplash.com/photo-1602525962574-3bc829fbed3c?q=80&w=1470&auto=format&fit=crop",
-    "featured": [
-      { "id": 501, "name": "Carbon Fiber Tripod", "image": "https://images.unsplash.com/photo-1495707902641-75cac588d2e9?w=200&h=200&fit=crop", "slug": "carbon-fiber-tripod" },
-      { "id": 502, "name": "Mini Tripod", "image": "https://images.unsplash.com/photo-1517948430535-1e2469d314fe?w=200&h=200&fit=crop", "slug": "mini-tripod" }
-    ],
-    "subcategories": [
-      { "id": 51, "name": "Travel Tripods", "slug": "travel-tripods" },
-      { "id": 52, "name": "Studio Tripods", "slug": "studio-tripods" },
-      { "id": 53, "name": "Monopods", "slug": "monopods" },
-      { "id": 54, "name": "Tabletop Tripods", "slug": "tabletop-tripods" }
+      { "id": 31, "name": "Black Tigers Eye Bracelet", "slug": "Black-Tigers-Eye-Bracelet" },
+      { "id": 32, "name": "Malachite Bracelet", "slug": "bags-cases" },
+      { "id": 33, "name": "Citrine Healing Crystal Bracelet", "slug": "Citrine-Healing-Crystal-Bracelet" },
+      { "id": 34, "name": "Seven Chakra Bracelet", "slug": "Seven-Chakra-Healing-Crystal-Bracelet" },
+      { "id": 35, "name": "Rose Quartz Bracelet", "slug": "Rose-Quartz-Bracelet" },
+      { "id": 36, "name": "Amethyst Bracelet", "slug": "Amethyst-Bracelet" },
+      { "id": 37, "name": "Lava Stone Bracelet", "slug": "Lava-Stone-Bracelet" },
+      { "id": 38, "name": "Tiger Eye Bracelet", "slug": "Tiger-Eye-Bracelet" },
+      { "id": 39, "name": "Black Obsidian Bracelet", "slug": "Black-Obsidian-Bracelet" }
     ]
   }
+  
 ]

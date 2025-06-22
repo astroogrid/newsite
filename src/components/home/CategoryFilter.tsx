@@ -52,7 +52,7 @@ const CategoryFilter: React.FC<CategoryFilterProps> = ({ activeCategory, onCateg
                   transition: { duration: 0.5 }
                 }}
               >
-                {category.icon}
+                {/* {category.icon} */}
               </motion.span>
               <span className="text-xs sm:text-sm font-medium whitespace-nowrap">
                 {category.name}

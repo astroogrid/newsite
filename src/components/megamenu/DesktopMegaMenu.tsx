@@ -29,7 +29,7 @@ const DesktopMegaMenu: React.FC = () => {
           >
             <Link 
               to={`/category/${category.slug}`} 
-              className="flex items-center text-shop-dark-gray hover:text-shop-blue transition-colors"
+              className="text-sm flex items-center text-shop-dark-gray hover:text-shop-blue transition-colors"
             >
               {category.name}
               <ChevronDown className="ml-1 h-4 w-4" />

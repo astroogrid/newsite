@@ -14,7 +14,7 @@ const ShopByCategory = () => {
   return (
     <section className="py-8 sm:py-12 lg:py-16 bg-shop-bg-gray">
       <div className="container mx-auto px-3 sm:px-4 lg:px-6">
-        <h2 className="text-2xl sm:text-3xl font-bold mb-6 sm:mb-8">Shop by Category</h2>
+        <h2 className="text-lg font-bold mb-4">Shop by Category</h2>
         
         <Carousel className="w-full">
           <CarouselContent className="-ml-2 sm:-ml-4">

@@ -26,8 +26,8 @@ const CatalogPage: React.FC = () => {
     <div className="min-h-screen flex flex-col">
       <Header />
       <SEO 
-        title="Camera Shop"
-        description="Browse our selection of high-quality cameras and photography equipment."
+        title="Astrology Shop"
+        description="Browse our selection of high-quality cameras and Astrology Predictions."
         keywords="cameras, photography, equipment, shop, mirrorless, DSLR"
       />
       
@@ -38,7 +38,7 @@ const CatalogPage: React.FC = () => {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.3 }}
           >
-            <h1 className="text-3xl font-bold mb-2">Camera Shop</h1>
+            <h1 className="text-3xl font-bold mb-2">Astrology Shop</h1>
             <p className="text-muted-foreground">Browse our collection of professional cameras and accessories</p>
           </motion.div>
           

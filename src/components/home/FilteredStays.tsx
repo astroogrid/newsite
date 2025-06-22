@@ -52,7 +52,7 @@ const FilteredStays: React.FC<FilteredStaysProps> = ({ activeCategory }) => {
 
   return (
     <main className="container mx-auto px-3 sm:px-4 lg:px-6 xl:px-8 py-4 sm:py-6 lg:py-8">
-      <motion.div 
+      <motion.div
         key={activeCategory}
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
@@ -68,7 +68,7 @@ const FilteredStays: React.FC<FilteredStaysProps> = ({ activeCategory }) => {
               <Carousel className="w-full" opts={{ slidesToScroll: 3 }}>
                 <CarouselContent className="-ml-3">
                   {filteredStays.map((stay, index) => (
-                    <CarouselItem key={`${activeCategory}-${stay.id}`} className="pl-2 sm:pl-3 basis-1/2 sm:basis-1/3 md:basis-1/4 lg:basis-1/5 xl:basis-1/6">
+                    <CarouselItem key={`${activeCategory}-${stay.id}`} className="pl-2 sm:pl-3 basis-1/2 sm:basis-1/2 md:basis-1/3 lg:basis-1/5 xl:basis-1/6">
                       <motion.div
                         initial={{ opacity: 0, y: 20 }}
                         animate={{ opacity: 1, y: 0 }}
@@ -77,7 +77,7 @@ const FilteredStays: React.FC<FilteredStaysProps> = ({ activeCategory }) => {
                       >
                         <Card className="border-none shadow-none overflow-hidden">
                           <div className="relative rounded-xl overflow-hidden">
-                            <Link to={`/stays/ooty-india/${stay.id}`}>
+                            <Link to={`/stays/india/${stay.id}`}>
                               <img
                                 src={stay.images[0]}
                                 alt={stay.title}
@@ -85,16 +85,7 @@ const FilteredStays: React.FC<FilteredStaysProps> = ({ activeCategory }) => {
                                 loading="lazy"
                               />
                             </Link>
-                            <button
-                              onClick={() => toggleFavorite(stay.id)}
-                              className="absolute top-2 sm:top-3 right-2 sm:right-3 p-1.5 sm:p-1 rounded-full bg-black/20 hover:bg-black/40 transition-colors min-h-[44px] min-w-[44px] sm:min-h-auto sm:min-w-auto flex items-center justify-center"
-                            >
-                              <Heart
-                                className={`h-4 w-4 sm:h-3 sm:w-3 ${
-                                  favorites.has(stay.id) ? 'fill-red-500 text-red-500' : 'text-white'
-                                }`}
-                              />
-                            </button>
+                           
                             {stay.host.isSuperhost && (
                               <Badge className="absolute top-2 sm:top-3 left-2 sm:left-3 bg-white text-black text-xs">
                                 Superhost
@@ -103,9 +94,9 @@ const FilteredStays: React.FC<FilteredStaysProps> = ({ activeCategory }) => {
                           </div>
                           
                           <CardContent className="p-0 pt-2 sm:pt-3">
-                            <Link to={`/stays/ooty-india/${stay.id}`}>
+                            <Link to={`/stays/india/${stay.id}`}>
                               <div className="flex items-center justify-between mb-1">
-                                <h3 className="font-semibold text-gray-900 truncate text-xs sm:text-sm">{stay.location}</h3>
+                                <h3 className="font-semibold text-gray-900 truncate text-xs sm:text-sm">{stay.title}</h3>
                                 <div className="flex items-center gap-1 flex-shrink-0 ml-2">
                                   <Star className="h-2 w-2 fill-gray-500" />
                                   <span className="text-xs text-gray-500 font-medium">{stay.rating}</span>

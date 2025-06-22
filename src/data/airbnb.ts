@@ -39,7 +39,7 @@ export interface Review {
   helpful?: number;
 }
 
-import staysData from './json/airbnb-stays.json';
+import staysData from './json/home-cateogry.json';
 import reviewsData from './json/airbnb-reviews.json';
 
 export const mockStays: Stay[] = staysData as Stay[];

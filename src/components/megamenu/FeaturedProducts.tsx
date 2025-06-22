@@ -9,14 +9,14 @@ interface FeaturedProductsProps {
 
 const FeaturedProducts: React.FC<FeaturedProductsProps> = ({ products }) => {
   return (
-    <div className="grid grid-cols-2 gap-4">
+    <div className="grid grid-cols-3 gap-4">
       {products.map((product) => (
         <Link 
           key={product.id} 
           to={`/product/${product.id}/${product.slug}`}
           className="group"
         >
-          <div className="aspect-square rounded-md overflow-hidden bg-gray-100">
+          <div className="aspect-square rounded-md overflow-hidden bg-gray-100 max-h-48">
             <img 
               src={product.image} 
               alt={product.name}

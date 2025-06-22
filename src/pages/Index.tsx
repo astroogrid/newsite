@@ -17,14 +17,14 @@ const Index = () => {
   return (
     <div className="min-h-screen flex flex-col">
       <Helmet>
-        <title>AstrooGrid | Photography Equipment Store</title>
+        <title>AstrooGrid | Astrology Predictions Store</title>
         <meta
           name="description"
           content="Professional grade equipment for photographers at every level. Shop cameras, lenses, and accessories."
         />
         <meta
           property="og:title"
-          content="AstrooGrid | Photography Equipment Store"
+          content="AstrooGrid | Astrology Predictions Store"
         />
         <meta
           property="og:description"

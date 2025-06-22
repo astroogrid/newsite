@@ -1,9 +1,9 @@
 [
   {
     "id": "1",
-    "title": "cryctal",
+    "title": "Cryctal",
     "type": "Entire villa",
-    "location": "Tamil Nadu, India",
+    "location": "111",
     "price": 8500,
     "rating": 4.9,
     "reviewCount": 127,
@@ -168,15 +168,15 @@
   },
   {
     "id": "5",
-    "title": "Puja & Vastu Harmony House",
-    "type": "Entire cottage",
+     "title": "Aries Horoscope",
+    "type": "horoscope",
     "location": "Ooty, Tamil Nadu, India",
     "price": 4200,
     "rating": 4.7,
     "reviewCount": 89,
-    "categories": ["puja", "vastu"],
+    "categories": ["horoscope"],
     "images": [
-      "https://images.unsplash.com/photo-1629889591552-997c1cd38ff6?q=80&w=350",
+       "./zodiac/astroogrid_horoscope_Aries.png",
       "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800",
       "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800"
     ],
@@ -208,16 +208,16 @@
   },
   {
     "id": "6",
-    "title": "Horoscope & Vastu Consultation Center",
-    "type": "Entire cottage",
-    "location": "Ooty, Tamil Nadu, India",
+    "title": "Aries Horoscope",
+    "type": "horoscope",
     "price": 4200,
     "rating": 4.7,
     "reviewCount": 89,
-    "categories": ["horoscope", "vastu"],
+    "categories": ["horoscope"],
     "images": [
-      "https://images.unsplash.com/photo-1650809652935-2e5002ba40bf?q=80&w=350",
-      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800",
+      "./zodiac/astroogrid_horoscope_Aries.png",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800",
       "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800"
     ],
     "host": {

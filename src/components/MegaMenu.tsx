@@ -12,7 +12,7 @@ const MegaMenu: React.FC = () => {
   }
 
   return (
-    <div className="bg-white border-b">
+    <div className="border-b rounded-t-md">
       <div className="container mx-auto px-4">
         <DesktopMegaMenu />
       </div>
