@@ -83,10 +83,10 @@ const TemplateLandingPage: React.FC = () => {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.6 }}
             >
-              <h1 className="text-4xl md:text-6xl font-bold mb-6 bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
+              <h1 className="text-4xl mb-6">
                 Astro Temples
               </h1>
-              <h2 className="text-xl md:text-2xl text-gray-700 mb-4">
+              <h2 className="text-xl text-gray-700 mb-4">
                 The Ultimate Guide to <span className="text-yellow-600 font-semibold">Sacred Spaces</span>
               </h2>
               <p className="text-lg text-gray-600 max-w-4xl mx-auto mb-8 leading-relaxed">

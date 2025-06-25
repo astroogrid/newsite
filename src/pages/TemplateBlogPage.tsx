@@ -180,7 +180,7 @@ const TemplateBlogPage: React.FC = () => {
                 {currentContent.category}
               </Badge>
               
-              <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight">
+              <h1 className="text-4xl md:text-6xl text-white font-bold mb-6 leading-tight">
                 {currentContent.title}
               </h1>
               
